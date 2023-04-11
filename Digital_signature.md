@@ -1,7 +1,7 @@
 ---
 title: setting-up-digital-signage
 layout: layout-page-sidenav
-description: Information related to Pingcentral, setting-up-digital-signage.
+description: Information related to ringcentral, setting-up-digital-signage.
 single_level_nav: true
 _data: single-level-nav
 redirect_from:
