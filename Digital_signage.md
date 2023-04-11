@@ -13,10 +13,9 @@ redirect_from:
 2. Go to **Meetings > RingCentral Video > Rooms > Rooms List**.
 3. Click **Add Room**.
 4. Select **Digital Signage Only** under **Room Type**.
-
-Enter the Room name.
-If you have a multi-site setting, select a location.
-Note: If you have multiple office locations, we recommend creating a Room name or naming convention that makes it easier to select specific rooms. A typical naming convention might consist of, for instance, [Office Location] - [Conference Room Name]. For example: ‘SF - Ocean Beach,’ or ‘DEN - Breckenridge.’
-Enter the URL you want to display on the monitor.
-Click **Add**.
-Note: Digital Signage Only rooms are only available for RingCentral brand users using Windows devices.
+5. Enter the Room name.
+6. If you have a multi-site setting, select a location.
+     (a). Note: If you have multiple office locations, we recommend creating a Room name or naming convention that makes it easier to select specific rooms. A typical naming convention might consist of, for instance, [Office Location] - [Conference Room Name]. For example: ‘SF - Ocean Beach,’ or ‘DEN - Breckenridge.’
+7. Enter the URL you want to display on the monitor.
+8. Click **Add**.
+  [Note: Digital Signage Only rooms are only available for RingCentral brand users using Windows devices.]
