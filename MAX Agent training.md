@@ -1,7 +1,7 @@
 ---
 title: MAX Agent training
 layout: layout-page-sidenav
-description: Attributes are non-measurable descriptors used to break down metrics and measures and represent qualitative data. Attributes can also be used as filters in your reports, KPI widgets, and dashboards.
+description:
 sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav
