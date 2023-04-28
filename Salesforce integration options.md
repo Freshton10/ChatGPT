@@ -10,7 +10,7 @@ sgts_collection_group: [toolchain]
 sgts_layer_group: [base]
 sgts_title: Salesforce integration options
 redirect_from:
-    - https://support.ringcentral.com/article-v2/assisted-provisioning-yealink-deskphones.html?brand=RC_US&product=RingCentral_MVP&language=en_US
+    - https://support.ringcentral.com/article-v2/Salesforce-integration-options.html?brand=RingCentral&product=CC&language=en_US
 ---
 
 ### Salesforce integration options
