@@ -1,7 +1,7 @@
 ---
 title: Install Agent Adapter for Salesforce in Lightning Experience | RingCentral Contact Center
 layout: layout-page-sidenav
-description: This article explains how to provision your Yealink deskphone using assisted provisioning.
+description: 
 sub_collection_render: true
 single_level_nav: true
 _data: single-level-nav
